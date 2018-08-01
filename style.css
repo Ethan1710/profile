@@ -1,5 +1,6 @@
 body {
-  background-color: #EBEBEB;
+  /*background-color: #EBEBEB;*/
+  background-image: url("images/su.jpg");
   background: #EBEBEB;
   line-height: 1.6em;
 }
